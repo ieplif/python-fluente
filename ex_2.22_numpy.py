@@ -1,4 +1,4 @@
-import numpy as numpy
+import numpy as numpy # type: ignore
 
 a = numpy.arange(12)
 
